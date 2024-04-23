@@ -1,0 +1,9 @@
+- Este é o TVLPB, Teste de Verificação Lexical de Português Brasileiro, criado por Thaís Sá, Alexandre Alves Santos, Victor Almeida, Ricardo de Souza e Luiz Amaral. 
+- Este teste pode ser usado para estimar o tamanho de vocabulário de falantes da variedade brasileira da língua portuguesa. Para utilizar o teste, por favor, faça o download do software PsychoPy e coloque o script e o arquivo excel na mesma pasta.
+- Para saber mais sobre o PsychoPy: https://psychopy.org/tutorials/index.html 
+- Para saber mais sobre o teste, leia o arquivo Saetal(2021).pdf , que contém o artigo sobre o teste. 
+- Ao usar o teste, favor citá-lo a partir da referência Sá; Santos; Souza; Amaral. Um teste de verificação lexical de português brasileiro (TVLPB) como língua adicional: criação e validação. Caligrama, Belo Horizonte, v. 26, n. 2, p. 125-153, 2021. DOI: 10.17851/2358-9787.26.1.125-153 .
+- Como todo experimento em Psychopy, recomenda-se calibrar a tela do computador que exibirá o experimento antes de iniciar. Para mais instruções de como fazê-lo: https://www.psychopy.org/builder/builderMonitors.html 
+- Caso você tenha problemas com a calibração da tela do seu computador, consulte a seguinte página: https://discourse.psychopy.org/t/what-is-this-error-screen-size/19169
+- Se possível, envie os dados do TVLPB para vltportugues@gmail.com juntamente com dados demográficos do participante, como língua nativa, idade e se ele mora em países de língua portuguesa, para que eles possam entrar no nosso banco de dados e serem utilizados em seu processo de validação.
+- Qualquer dúvida, entre em contato com thaisdesa@ufla.br ou alexandresan@umass.edu .
